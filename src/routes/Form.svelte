@@ -48,7 +48,6 @@
 		display: flex;
 		flex-direction: column;
 		gap: 1rem;
-		border: 1px solid #ccc;
 		width: 150px;
 	}
 
